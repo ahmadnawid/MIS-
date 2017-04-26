@@ -1,0 +1,5 @@
+#pagination-flickr{margin-left:250px;}
+#pagination-flickr li{display:inline;margin-left:20px;}
+#pagination-flickr li.btn-primary{background:#848484;}
+#pagination-flickr li.btn-primary a{color:#fff;}
+.page{margin-top: 20px;margin-bottom: 10px;}
